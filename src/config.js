@@ -1,7 +1,7 @@
 export default {
     s3: {
         REGION: "us-west-2",
-        BUCKET: "YOUR_S3_UPLOADS_BUCKET_NAME"
+        BUCKET: "www.assets.pagewithlove.com"
     },
     apiGateway: {
         REGION: "us-west-2",
